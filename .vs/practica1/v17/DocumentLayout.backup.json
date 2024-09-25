@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulo\\OneDrive\\Documentos\\C#\\practica1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71F31E35-AE31-45F1-8D3A-5B89AFB4A85E}|practica1\\practica1.csproj|c:\\users\\paulo\\onedrive\\documentos\\c#\\practica1\\practica1\\pantalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71F31E35-AE31-45F1-8D3A-5B89AFB4A85E}|practica1\\practica1.csproj|solutionrelative:practica1\\pantalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F31E35-AE31-45F1-8D3A-5B89AFB4A85E}|practica1\\practica1.csproj|C:\\Users\\paulo\\OneDrive\\Documentos\\C#\\practica1\\practica1\\pantalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F31E35-AE31-45F1-8D3A-5B89AFB4A85E}|practica1\\practica1.csproj|solutionrelative:practica1\\pantalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pantalla.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\C#\\practica1\\practica1\\Pantalla.cs",
+              "RelativeDocumentMoniker": "practica1\\Pantalla.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\C#\\practica1\\practica1\\Pantalla.cs",
+              "RelativeToolTip": "practica1\\Pantalla.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAlwDwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:40:33.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pantalla.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\C#\\practica1\\practica1\\Pantalla.cs",
+              "RelativeDocumentMoniker": "practica1\\Pantalla.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\C#\\practica1\\practica1\\Pantalla.cs [Dise\u00F1o]",
+              "RelativeToolTip": "practica1\\Pantalla.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:30:52.999Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
